@@ -1,0 +1,18 @@
+{
+  "name": "Perspectives",
+  "short_name": "Perspectives",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/2023/media/icon_hu6b864683615a768f14fd4fb535553dc1_1267_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/2023/media/icon_hu6b864683615a768f14fd4fb535553dc1_1267_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/2023/?utm_source=web_app_manifest"
+}
