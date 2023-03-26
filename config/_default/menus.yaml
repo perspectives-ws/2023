@@ -1,0 +1,33 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+#  - name: Call for Papers 
+#    url: '#cfp'
+#    weight: 20
+  - name: Important Dates
+    url: '#dates'
+    weight: 30
+#  - name: Program
+#    url: '#program'
+#    weight: 40
+#  - name: Keynote
+#    url: '#keynote'
+#    weight: 50
+#  - name: Accepted Contributions
+#    url: '#acceptedpapers'
+#    weight: 60
+  - name: Committee
+    url: '#committee'
+    weight: 70
+  - name: Perspectives 2021
+    url: https://perspectives-ws.github.io/2021/
+    weight: 80
+  - name: Perspectives 2022
+    url: https://perspectives-ws.github.io/2022/
+    weight: 90
