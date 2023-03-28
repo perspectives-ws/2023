@@ -12,7 +12,7 @@ title = "Important Dates"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-* Paper submission: August 3rd, 2023 AoE
-* Author notification: August 27th, 2023
-* Camera-ready version: September 10th, 2023
+* Paper submission: July 21st, 2023 AoE
+* Author notification: August 11th, 2023
+* Camera-ready version: September 1st, 2023
 * Workshop: in the scope of RecSys 2023 (September 18th--22nd, 2023, Singapore; remote participation possible)
