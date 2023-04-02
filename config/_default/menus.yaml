@@ -7,9 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-#  - name: Call for Papers 
-#    url: '#cfp'
-#    weight: 20
+  - name: Call for Papers 
+    url: '#cfp'
+    weight: 20
   - name: Important Dates
     url: '#dates'
     weight: 30
