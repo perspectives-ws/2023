@@ -11,7 +11,6 @@ title = "Call for Papers"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-CfP
 Topics of interest include, but are not limited to, the following: 
 
 * Case studies of difficult, hard-to-evaluate scenarios
