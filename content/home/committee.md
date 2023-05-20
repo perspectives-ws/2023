@@ -16,7 +16,7 @@ title = "Program Committee"
   
 * [Alan Said (University of Gothenburg, Sweden)](http://alansaid.com)
 * [Eva Zangerle (Universität Innsbruck, Austria)](http://evazangerle.at) 
-* [Christine Bauer (University of Salzburg, Austria)](https://christinebauer.eu/)
+* [Christine Bauer (Paris Lodron University Salzburg, Austria)](https://christinebauer.eu/)
 
 <h2>Program Committee</h2>
 
