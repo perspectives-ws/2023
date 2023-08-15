@@ -36,7 +36,7 @@ title = "Program Committee"
 * Julia Neidhardt (TU Wien, Austria)
 * Maria Soledad Pera (TU Delft, The Netherlands)
 * Lorenzo Porcaro (Joint Research Centre (European Commission), Italy)
-* Markus Zanker (Free University of Bozen-Bolzano, Italy)
+<!--* Markus Zanker (Free University of Bozen-Bolzano, Italy)-->
 
 <!--* Linus W. Dietz (Technical University of Munich, Germany)
 # * Alejandro Bellogin (Universidad Autónoma de Madrid, Spain)

@@ -19,9 +19,9 @@ main:
 #  - name: Keynote
 #    url: '#keynote'
 #    weight: 50
-#  - name: Accepted Contributions
-#    url: '#acceptedpapers'
-#    weight: 60
+  - name: Accepted Contributions
+    url: '#acceptedpapers'
+    weight: 60
   - name: Committee
     url: '#committee'
     weight: 70
