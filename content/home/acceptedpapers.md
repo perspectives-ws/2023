@@ -35,10 +35,6 @@ Andra-Georgiana Sav, Andrew M. Demetriou, Cynthia C. S. Liem
 Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Peter Knees, Julia Neidhardt  
 <!--[Video](./videos#)-->
 
-**Diversifying Sentiments in News Recommendation**  
-Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Julia Neidhardt  
-<!--[Video](./videos#)-->
-
 **Unveiling Challenging Cases in Text-based Recommender Systems**  
 Ghazaleh Haratinezhad Torbati, Anna Tigunova, Gerhard Weikum  
 <!--[Video](./videos#)-->
