@@ -15,11 +15,10 @@ title = "Program"
 
 <!-- Please watch the [videos](videos)  of the accepted papers *before* the workshop takes place. There will be no time at the workshop to view videos, instead we will focus on discussion and active participation. -->
 
-### Thursday, September 19th, 2023, 09:00-12:35
+### Thursday, September 19th, 2023, 09:00-12:35 (hybrid)
 
-#### Part 1 (hybrid): TBA
 **09:00-09:20** Welcome & Introduction  
-**09:20-10:10** [Keynote](#keynote) & Q&A: Noam Koenigstein
+**09:20-10:10** [Keynote](#keynote) & Q&A: Noam Koenigstein  
 **10:10-10:30** Topic pitch (5 min pitch, 5 min questions)  
 **10:30-11:00** Break  
 **11:00-12:15** Group discussions on site (breakout rooms on Zoom)  
