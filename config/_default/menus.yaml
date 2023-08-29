@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: CFP 
+  - name: CfP 
     url: '#cfp'
     weight: 20
   - name: Dates

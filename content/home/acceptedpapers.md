@@ -13,11 +13,11 @@ title = "Accepted Contributions"
   columns = "1"
 +++
 
-<!--[[All Teaser Videos](./videos) on a single page.-->
+[All Teaser Videos](./videos) on a single page.  
 
-<!--[[Extended abstract](https://doi.org/10.1145/3604915.3608748) about the workshop as part of the RecSys 2023 proceedings.-->
+<!--[Extended abstract](https://doi.org/10.1145/3604915.3608748) about the workshop as part of the RecSys 2023 proceedings.-->
 
-<!--[[Proceedings](http://ceur-ws.org/Vol-3228/) (ceur-ws).-->
+<!--[Proceedings](http://ceur-ws.org/Vol-3228/) (ceur-ws).-->
 
 
 ### Accepted Papers
@@ -50,5 +50,5 @@ Lukas Wegmeth, Tobias Vente, Lennart Purucker, Joeran Beel
 
 **A Common Misassumption in Online Experiments with Machine Learning Models**  
 Olivier Jeunen  
-<!--[Video](./videos#)-->
+[Video](./videos#a-common-misassumption-in-online-experiments-with-machine-learning-models)
 
