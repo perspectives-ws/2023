@@ -41,7 +41,7 @@ Ghazaleh Haratinezhad Torbati, Anna Tigunova, Gerhard Weikum
 
 **The Effect of Random Seeds for Data Splitting on Recommendation Accuracy**  
 Lukas Wegmeth, Tobias Vente, Lennart Purucker, Joeran Beel  
-<!--[Video](./videos#)-->
+[Video](./videos#the-effect-of-random-seeds-for-data-splitting-on-recommendation-accuracy)
 
 
 

@@ -13,9 +13,16 @@ title = "Videos of Accepted Contributions"
   columns = "1"
 +++
 
+## The Effect of Random Seeds for Data Splitting on Recommendation Accuracy  
+Lukas Wegmeth, Tobias Vente, Lennart Purucker, Joeran Beel  
+{{< video library="1" src="./wegmeth.mp4" controls="yes" width="200px" height="150px">}}  
+<br>
+
+
 ## A Common Misassumption in Online Experiments with Machine Learning Models  
 Olivier Jeunen  
 {{< youtube "piUDxYc_UMk" >}}  
 
 <br>
+
 
