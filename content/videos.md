@@ -13,6 +13,12 @@ title = "Videos of Accepted Contributions"
   columns = "1"
 +++
 
+## Unveiling Challenging Cases in Text-based Recommender Systems  
+Ghazaleh Haratinezhad Torbati, Anna Tigunova, Gerhard Weikum  
+{{< youtube "yDHj-zUq580" >}}  
+
+<br>
+
 ## The Effect of Random Seeds for Data Splitting on Recommendation Accuracy  
 Lukas Wegmeth, Tobias Vente, Lennart Purucker, Joeran Beel  
 {{< video library="1" src="./wegmeth.mp4" controls="yes" width="200px" height="150px">}}  

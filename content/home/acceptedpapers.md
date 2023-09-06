@@ -37,7 +37,7 @@ Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Peter Knees, Julia Neidha
 
 **Unveiling Challenging Cases in Text-based Recommender Systems**  
 Ghazaleh Haratinezhad Torbati, Anna Tigunova, Gerhard Weikum  
-<!--[Video](./videos#)-->
+[Video](./videos#unveiling-challenging-cases-in-text-based-recommender-systems)
 
 **The Effect of Random Seeds for Data Splitting on Recommendation Accuracy**  
 Lukas Wegmeth, Tobias Vente, Lennart Purucker, Joeran Beel  
