@@ -24,11 +24,11 @@ title = "Accepted Contributions"
 
 **Multiobjective Hyperparameter Optimization of Recommender Systems**  
 Marta Moscati, Yashar Deldjoo, Giulio Davide Carparelli, Markus Schedl  
-<!--[Video](./videos#)-->
+[Video](./videos#multiobjective-hyperparameter-optimization-of-recommender-systems)
 
 **Annotation Practices in Societally Impactful Machine Learning Applications: What are Popular Recommender Systems Models Actually Trained On?**  
 Andra-Georgiana Sav, Andrew M. Demetriou, Cynthia C. S. Liem  
-<!--[Video](./videos#)-->
+[Video](./videos#annotation-practices-in-societally-impactful-machine-learning-applications-what-are-popular-recommender-systems-models-actually-trained-on)
 
 
 **Exploring Effect-Size-Based Meta-Analysis for Multi-Dataset Evaluation**  

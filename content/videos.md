@@ -13,6 +13,20 @@ title = "Videos of Accepted Contributions"
   columns = "1"
 +++
 
+
+## Multiobjective Hyperparameter Optimization of Recommender Systems  
+Marta Moscati, Yashar Deldjoo, Giulio Davide Carparelli, Markus Schedl  
+{{< youtube "fTTh4rMeUCQ" >}} 
+
+<br>
+
+
+## Annotation Practices in Societally Impactful Machine Learning Applications: What are Popular Recommender Systems Models Actually Trained On?  
+Andra-Georgiana Sav, Andrew M. Demetriou, Cynthia C. S. Liem  
+{{< video library="1" src="./sav.mp4" controls="yes" width="200px" height="150px">}}  
+<br>
+
+
 ## Unveiling Challenging Cases in Text-based Recommender Systems  
 Ghazaleh Haratinezhad Torbati, Anna Tigunova, Gerhard Weikum  
 {{< youtube "yDHj-zUq580" >}}  
