@@ -26,6 +26,11 @@ Andra-Georgiana Sav, Andrew M. Demetriou, Cynthia C. S. Liem
 {{< video library="1" src="./sav.mp4" controls="yes" width="200px" height="150px">}}  
 <br>
 
+## Exploring Effect-Size-Based Meta-Analysis for Multi-Dataset Evaluation  
+Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Peter Knees, Julia Neidhardt  
+{{< youtube "hWV-oFwXujE" >}} 
+
+<br>
 
 ## Unveiling Challenging Cases in Text-based Recommender Systems  
 Ghazaleh Haratinezhad Torbati, Anna Tigunova, Gerhard Weikum  

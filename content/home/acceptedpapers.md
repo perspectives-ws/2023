@@ -33,7 +33,7 @@ Andra-Georgiana Sav, Andrew M. Demetriou, Cynthia C. S. Liem
 
 **Exploring Effect-Size-Based Meta-Analysis for Multi-Dataset Evaluation**  
 Mete Sertkan, Sophia Althammer, Sebastian Hofstätter, Peter Knees, Julia Neidhardt  
-<!--[Video](./videos#)-->
+[Video](./videos#exploring-effect-size-based-meta-analysis-for-multi-dataset-evaluation)
 
 **Unveiling Challenging Cases in Text-based Recommender Systems**  
 Ghazaleh Haratinezhad Torbati, Anna Tigunova, Gerhard Weikum  
